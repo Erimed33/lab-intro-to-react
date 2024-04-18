@@ -1,0 +1,9 @@
+.post {
+    position: absolute;
+    border: 1px solid black;
+    width: 550px;
+    height: 40px;
+    padding: 10%;
+    margin:10px;
+
+}

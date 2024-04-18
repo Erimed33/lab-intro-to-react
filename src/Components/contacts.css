@@ -1,0 +1,10 @@
+.contacts {
+    position:absolute;
+    top: 10%;
+    right:4%;
+    border: 1px solid black;
+    width: 550px;
+    height: 700px;
+    padding: 20px;
+    
+}

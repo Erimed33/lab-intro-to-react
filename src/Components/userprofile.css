@@ -1,0 +1,8 @@
+.user-profile {
+    border: 1px solid black;
+    width: 700px;
+    height: 200px;
+    position: absolute;
+    top: 9%;
+    bottom: 4%;
+}
